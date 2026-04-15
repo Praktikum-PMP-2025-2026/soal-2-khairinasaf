@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    : 15 April 2026
  *   Nama (NIM)          : Khairina Safira Nurazizah (13224021)
  *   Nama File           : soal2.c
- *   Deskripsi           : menggunakan rekursi untuk menghitung banyak langkah sampai menjadi 1 dengan aturan transformasi tertentu.
+ *   Deskripsi           : menggunakan rekursi untuk menghitung banyak langkah sampai menjadi 1 dengan aturan transformasi tertentu
  * 
  */
 
